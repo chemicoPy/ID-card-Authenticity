@@ -1,0 +1,2 @@
+# ID-card-Authenticity
+Taking on the mission to solve the problem space of the challenges students of institutions face while seeking for solace in off-campus housing for their accommodation need, a web-service app LesserStress is being developed (in completion phase), I’m delegated with the role to develop a working ML – AI model that checks if the identity of the user is valid or not. If it is, access would be granted to use the service of the app. The allowed ID cards are Nigeria National Identity card or Voter’s card This repository has the code, datasets among others….
